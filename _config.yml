@@ -16,7 +16,7 @@
 repository: chennethan/chennethan.github.io
 url: "https://chennethan.github.io"
 baseurl: ""
-title: MM
+title: Ethan Chen's Portfolio
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -61,19 +61,19 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Ethan Chen"
+  avatar : "/assets/images/profilephoto.jpg"
+  bio    : "MechE and EECS @ UC Berkeley"
   links:
-    - label: "Website"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://www.linkedin.com/in/chennethan/"
+    #- label: "Twitter"
+      #icon: "fab fa-fw fa-twitter-square"
+      #url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/chennethan"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
