@@ -66,7 +66,7 @@ author:
   bio    : "MechE and EECS @ UC Berkeley"
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-link"
+      icon: "<fa-brands fa-square-linkedin"
       url: "https://www.linkedin.com/in/chennethan/"
     #- label: "Twitter"
       #icon: "fab fa-fw fa-twitter-square"
