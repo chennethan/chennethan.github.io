@@ -5,4 +5,4 @@
 layout: single
 author_profile: true
 ---
-I am an undergraduate student at UC Berkeley studying Mechanical Engineering with an EECS minor. My interests lies in the intersection of software and hardware.
+<h3>Hello and welcome to my portfolio! Check out the links below to learn more about my projects.</h3>
