@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/home-hero.jpg
   overlay_filter: 0.45
   actions:
-    - label: "View my work"
+    - label: "View my projects"
       url: "/projects/"
 
 excerpt: "Mechanical engineering and EECS student at UC Berkeley working on controls, robotics, and embedded systems."
@@ -39,7 +39,7 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-I build hardware and software for robotic systems, with a focus on controls, embedded electronics, and optimization.
+Hello and welcome! I build hardware and software for robotic systems, with a focus on controls, embedded electronics, and optimization.
 {: .text-center}
 
 {% include feature_row %}
