@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Robotics"
+    url: /projects/
+  - title: "Electronics"
+    url: /electronics/
+  - title: "Research"
+    url: /research/
   - title: "About"
     url: /about/
