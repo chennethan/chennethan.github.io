@@ -5,7 +5,7 @@ title: "About"
 
 I’m Ethan Chen, an aspiring robotics engineer and nature enjoyer.
 
-The intersection across controls, robotics, and embedded systems has become my focus during my studies at UC Berkeley. I’ve worked on stochastic MPC research, quadruped control, avionics PCB design, and motion-tracking systems.
+The intersection across controls, robotics, and embedded systems has become my focus during my studies at UC Berkeley. I’ve worked on quadruped robotics, controls research, and avionics PCB design.
 
 Outside of engineering, I particularly like backpacking, photography, and hands-on projects. 
 
