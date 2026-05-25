@@ -7,12 +7,11 @@ author_profile: false
 header:
   overlay_image: /assets/images/home-hero.jpg
   overlay_filter: 0.45
-  caption: "Photo credit: Unsplash"
   actions:
     - label: "View my work"
       url: "/projects/"
 
-excerpt: "Mechanical engineering student at UC Berkeley working on controls, robotics, and embedded systems."
+excerpt: "Mechanical engineering and EECS student at UC Berkeley working on controls, robotics, and embedded systems."
 
 feature_row:
   - image_path: /assets/images/project-1.jpg
@@ -43,4 +42,4 @@ feature_row:
 I build hardware and software for robotic systems, with a focus on controls, embedded electronics, and optimization.
 {: .text-center}
 
-{% include feature_row type="center" %}
+{% include feature_row %}
