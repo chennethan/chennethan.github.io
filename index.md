@@ -9,7 +9,7 @@ header:
   overlay_filter: 0.45
   actions:
     - label: "View my projects"
-      url: "/projects/"
+      url: "/robotics/"
 
 excerpt: "Mechanical engineering and EECS student at UC Berkeley working on controls, robotics, and embedded systems."
 
@@ -18,16 +18,16 @@ feature_row:
     alt: "Robotics project"
     title: "Robotics"
     excerpt: "Controls, planning, and simulation work for autonomous systems."
-    url: "/projects/"
-    btn_label: "Projects"
+    url: "/robotics/"
+    btn_label: "Robotics"
     btn_class: "btn--primary"
 
   - image_path: /assets/images/project-2.jpg
     alt: "Electronics project"
     title: "Electronics"
     excerpt: "PCB design, avionics hardware, and embedded systems."
-    url: "/hardware/"
-    btn_label: "Hardware"
+    url: "/electronics/"
+    btn_label: "Electronics"
     btn_class: "btn--primary"
 
   - image_path: /assets/images/project-3.jpg
