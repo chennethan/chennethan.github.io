@@ -1,6 +1,6 @@
 ---
-title: "Posts by Category"
+title: "Robotics"
 layout: categories
-permalink: /categories/
+permalink: /robotics/
 author_profile: true
 ---
