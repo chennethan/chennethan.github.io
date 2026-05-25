@@ -39,7 +39,7 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-Hello and welcome! I build hardware and software for robotic systems, with a focus on controls, embedded electronics, and optimization.
+I build hardware and software for robotic systems, with a focus on controls, embedded electronics, and optimization.
 {: .text-center}
 
 {% include feature_row %}
