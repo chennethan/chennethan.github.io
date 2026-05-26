@@ -91,7 +91,7 @@ footer:
       url: "https://github.com/chennethan"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "chennethan@berkeley.edu"
+      url: "mailto:chennethan@berkeley.edu"
   
 defaults:
   # _posts
