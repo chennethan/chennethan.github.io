@@ -30,7 +30,7 @@ feature_row:
     btn_label: "Electronics"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/mujoco.jpg
+  - image_path: /assets/images/mujoco.png
     alt: "Research project"
     title: "Research"
     excerpt: "Work on stochastic MPC, uncertainty, and decision-making under prediction errors."
