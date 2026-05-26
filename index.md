@@ -14,7 +14,7 @@ header:
 excerpt: "Mechanical engineering and EECS student at UC Berkeley working on controls, robotics, and embedded systems."
 
 feature_row:
-  - image_path: /assets/images/project-1.jpg
+  - image_path: /assets/images/recovery.jpg
     alt: "Robotics project"
     title: "Robotics"
     excerpt: "Controls, planning, and simulation work for autonomous systems."
@@ -22,7 +22,7 @@ feature_row:
     btn_label: "Robotics"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/project-2.jpg
+  - image_path: /assets/images/umbilical.jpg
     alt: "Electronics project"
     title: "Electronics"
     excerpt: "PCB design, avionics hardware, and embedded systems."
@@ -30,7 +30,7 @@ feature_row:
     btn_label: "Electronics"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/project-3.jpg
+  - image_path: /assets/images/shockloading.jpg
     alt: "Research project"
     title: "Research"
     excerpt: "Work on stochastic MPC, uncertainty, and decision-making under prediction errors."
