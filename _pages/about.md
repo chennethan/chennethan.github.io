@@ -3,6 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
+ 
 I’m Ethan Chen, an aspiring robotics engineer and nature enjoyer.
 
 The intersection across controls, robotics, and embedded systems has become my focus during my studies at UC Berkeley. I’ve worked on quadruped robotics, controls research, and avionics PCB design.
