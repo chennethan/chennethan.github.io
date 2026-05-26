@@ -17,7 +17,7 @@ repository: chennethan/chennethan.github.io
 url: "https://chennethan.github.io"
 baseurl: ""
 title: Ethan Chen
-email:
+email: chennethan@berkeley.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -76,7 +76,7 @@ author:
       url: "https://github.com/chennethan"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "chennethan@berkeley.edu"
+      url: "mailto:chennethan@berkeley.edu"
 
 footer:
   links:
