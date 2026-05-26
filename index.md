@@ -14,7 +14,7 @@ header:
 excerpt: "Mechanical engineering and EECS student at UC Berkeley working on controls, robotics, and embedded systems."
 
 feature_row:
-  - image_path: /assets/images/recovery.jpg
+  - image_path: /assets/images/recoveryrbf.jpg
     alt: "Robotics project"
     title: "Robotics"
     excerpt: "Controls, planning, and simulation work for autonomous systems."
